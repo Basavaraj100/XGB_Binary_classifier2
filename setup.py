@@ -8,7 +8,7 @@ USER_NAME="Basavaraj100"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author=PROJECT_NAME,
     author_email="benkibijali@gmail.com",
     description="Fit XGB binary classifier for given train data and generate save Gain, KS for train and test data and also generate sweetviz comparison between the train and tests",

@@ -43,7 +43,7 @@ def xgb_binary_classifier(train=None,
 
 
     '''
-    This function build xgb binary classifier model
+    This function build xgb binary classifier model and create reports
     '''
 
 
